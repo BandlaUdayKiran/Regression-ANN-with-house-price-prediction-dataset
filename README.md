@@ -1,13 +1,18 @@
 #  Boston House Price Prediction Using Deep Learning
 
 **Overview**
+
 This project aims to predict the median value of owner-occupied homes (MEDV) in the Boston area using various features of the houses and their surroundings. The dataset used is the Boston Housing Dataset, which contains information about different houses in Boston.
+
 **Objectives**
+
 Preprocess the data to prepare it for modeling.
 Build and train a neural network model using TensorFlow and Keras.
 Evaluate the model’s performance using appropriate metrics.
 Visualize the training process to assess model performance.
+
 **Steps Involved**
+
 *Import Required Libraries:-* Load essential libraries for data manipulation, visualization, preprocessing, model building, and evaluation.
 *Load the Dataset:-*Load the Boston Housing Dataset into a pandas DataFrame.
 *Data Exploration and Cleaning:-*Check for missing values in the dataset.
